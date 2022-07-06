@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 - Email me to contact **joaovictorvieira153@gmail.com**
-- 22 YEARS
+- 23 YEARS
 - Currently studying to be a front end developer
 
 
